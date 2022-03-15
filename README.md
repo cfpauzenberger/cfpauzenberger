@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cfpauzenberger
-- 👀 I’m interested in conceptual modeling
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’, Chris
+- 👀 I’m interested in Conceptual Modeling
+- 🌱 I’m currently learning Eclipse/EMF
+- 💞️ I’m looking to collaborate on creative writing
 - 📫 How to reach me: pauzi.com
 
 <!---
